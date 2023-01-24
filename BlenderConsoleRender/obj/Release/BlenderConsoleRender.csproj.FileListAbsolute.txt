@@ -51,3 +51,30 @@ D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsole
 D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.CopyComplete
 D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\Blender Console Render.exe
 D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\Blender Console Render.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Blender Console Render.exe.config
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Blender Console Render.exe
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Blender Console Render.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\MaterialDesignColors.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\MaterialSkin.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Xamarin.Forms.Platform.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\MaterialDesignColors.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.xml
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.xml
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.AssemblyReference.cache
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Form1.resources
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Form2.resources
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Properties.Resources.resources
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.GenerateResource.cache
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.CoreCompileInputs.cache
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\XamlC.stamp
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.CopyComplete
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\Blender Console Render.exe
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\blender-console-render\BlenderConsoleRender\obj\Release\Blender Console Render.pdb

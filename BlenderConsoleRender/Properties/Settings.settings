@@ -8,15 +8,6 @@
     <Setting Name="chBox2" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
     </Setting>
-    <Setting Name="txt2" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Путь к проекту .blend</Value>
-    </Setting>
-    <Setting Name="txt3" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Сохранять в</Value>
-    </Setting>
-    <Setting Name="txt4" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Frame_</Value>
-    </Setting>
     <Setting Name="txt5" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
@@ -29,8 +20,17 @@
     <Setting Name="txt8" Type="System.String" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
+    <Setting Name="txt2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Path to .blend</Value>
+    </Setting>
+    <Setting Name="txt3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Path to save folder</Value>
+    </Setting>
+    <Setting Name="txt4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Frame_#</Value>
+    </Setting>
     <Setting Name="txt" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Путь к программе Blender</Value>
+      <Value Profile="(Default)">Path to blender</Value>
     </Setting>
   </Settings>
 </SettingsFile>
