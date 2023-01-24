@@ -1,0 +1,53 @@
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignColors.dll
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialSkin.dll
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.dll
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Platform.dll
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.dll
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignColors.pdb
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.pdb
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.xml
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.pdb
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.xml
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Form1.resources
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Form2.resources
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Properties.Resources.resources
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.GenerateResource.cache
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.CoreCompileInputs.cache
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\XamlC.stamp
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.CopyComplete
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csprojAssemblyReference.cache
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Blender Console Render.exe.config
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Blender Console Render.exe
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Blender Console Render.pdb
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\Blender Console Render.exe
+E:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\Blender Console Render.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Blender Console Render.exe.config
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Blender Console Render.exe
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Blender Console Render.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignColors.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialSkin.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Platform.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.dll
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignColors.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Core.xml
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\bin\Release\Xamarin.Forms.Xaml.xml
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.AssemblyReference.cache
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Form1.resources
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Form2.resources
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.Properties.Resources.resources
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.GenerateResource.cache
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.CoreCompileInputs.cache
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\XamlC.stamp
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\BlenderConsoleRender.csproj.CopyComplete
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\Blender Console Render.exe
+D:\Projects\Programs\C#\BlenderConsoleRender\BlenderConsoleRender\BlenderConsoleRender\obj\Release\Blender Console Render.pdb
