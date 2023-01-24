@@ -8,10 +8,11 @@ This is our small project to facilitate Render through CMD.
 1 field - Choose blender.exe. Version recomended 2.8+.
 2 field - Choose Blender project. Without gaps, sings, only latin symbols.
 3 field - Choose path to folder where render will save.
-
-| Parameter              | TYPE|
-| ---------------------- | ----|
-| CPU thread             |  -t |
-| Start frame            |  -s |
-| Last frame             |  -e |
-| Frame skip             |  -j |
+4 field - Frame name. #-number. Frame_## = Frame_01, Frame_02...
+Number
+| PARAMETER              | TYPE| DESCRIPTION
+| ---------------------- | ----| ----------------------------------------------------------------------------|
+| CPU thread             |  -t | If you want to use gpu check setings in Blender, text here 0, all threads 0 |
+| Start frame            |  -s |                                                                             |
+| Last frame             |  -e |                                                                             |
+| Frame skip             |  -j | Set up number of frames skiped after the rendered one                       |
